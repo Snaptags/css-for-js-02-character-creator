@@ -11,6 +11,6 @@
 }
 
 .footer a:hover {
-  color: #a4adde;
+  color: hsl(195deg, 20%, 86%);
   text-decoration: none;
 }
